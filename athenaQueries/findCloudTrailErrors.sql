@@ -1,0 +1,1 @@
+SELECT * FROM "cloudtraillogs-db"."lab_cloudtrail" WHERE NOT errorcode='';
